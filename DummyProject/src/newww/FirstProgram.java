@@ -7,7 +7,7 @@ public class FirstProgram {
 	
 	public void display()
 	{
-		System.out.println("hello");
+		System.out.println("hello afreen");
 	}
 
 }
